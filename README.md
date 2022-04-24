@@ -1,7 +1,7 @@
 This README is a journal response to prompts in the CS-330 class. In this README, three major elements of a prompt will
 be addressed along with its subcomponents. 
 
-	The first prompt asks how the author approaches software design; what new design skills the author has gained from
+The first prompt asks how the author approaches software design; what new design skills the author has gained from
 working on the project; what design process the author followed during the project work; and how tactics from
 my design approach could be applied in future work. The author took a step-wise iterative approach in designing
 this project, starting with the concept of what the project should look like and setting up visual studio, followed by
@@ -15,7 +15,7 @@ iterative, implementing one feature-complete deliverable at a time. Tactics from
 future work through independent learning of API development. The author has just accepted a job developing APIs and
 will need to undertake a similar process of independent study, experimentation, and problem solving to prepare for the role.
 
-	The prompt also asks how the author approaches developing programs, including what new development strategies were used, how
+The prompt also asks how the author approaches developing programs, including what new development strategies were used, how
 iteration factored into the development process, and how the author's approach to developing code evolved throughout the milestones.
 One development strategy that the author tried to cultivate and rely on extensively throughout this project was the use of
 abstraction to make code easy to change and as decoupled as possible; one example of this is using the 'offset' variable
